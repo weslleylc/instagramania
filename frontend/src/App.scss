@@ -1,0 +1,67 @@
+.App {
+  padding:  5px;
+  min-height: 100vh;
+  color: white;
+  background-color: #282c34;
+}
+
+
+.header {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.login-container{
+  width:  50%;
+  max-width: 400px;
+  position: relative;
+}
+
+
+.centerdiv {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#details-container{
+  width:  50%;
+  max-width: 400px;
+  padding-left: 20px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  font-size: 0.8rem;
+}
+
+button {
+  color: #444;
+  background-color: #f3f3f3;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 0.8rem;
+  outline: none;
+}
+
+button:disabled{
+  color: #f3f3f3;
+  background-color: #444;
+  cursor: not-allowed;
+}
+
+
+.center {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}

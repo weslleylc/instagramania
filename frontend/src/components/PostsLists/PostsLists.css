@@ -1,0 +1,12 @@
+.layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    padding-left: 100px;
+}
+
+.no-post{
+    text-align: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
