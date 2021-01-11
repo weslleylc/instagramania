@@ -1,7 +1,7 @@
 # instagramania
 
 Link live [instagramania](https://instagramania-c6447.web.app/)
-
+Check the other repository for AWS deployment [https://github.com/weslleylc/instagramania](https://github.com/weslleylc/instagramania)
 
 
 TODO: verify that the following info is correct:
